@@ -3,5 +3,8 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
-  }
+  },
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false
 }
