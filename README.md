@@ -26,10 +26,7 @@ Node.js (v16+)
 Expo CLI
 A phone with Expo Go app OR iOS/Android simulator
 
-Setup
-bash# Clone my project
-git clone https://github.com/yourusername/skillbridge-app.git
-cd skillbridge-app
+
 
 # Install dependencies
 npm install
